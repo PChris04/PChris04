@@ -32,7 +32,7 @@
 
 ## 🚀 Projects
 
-- 🌐 **[Personal Portfolio](#https://pchris04.github.io/paulkruger.github.io/)** – Showcasing my skills and work
+- 🌐 **[https://pchris04.github.io/paulkruger.github.io/](#)** – Showcasing my skills and work
 - 📘 **[Cybersecurity Blog](#)** – Sharing my learning journey and tutorials
 
 ---
