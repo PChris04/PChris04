@@ -32,7 +32,7 @@
 
 ## 🚀 Projects
 
-- 🌐 **[Personal Portfolio](#)** – Showcasing my skills and work
+- 🌐 **[Personal Portfolio](#https://pchris04.github.io/paulkruger.github.io/)** – Showcasing my skills and work
 - 📘 **[Cybersecurity Blog](#)** – Sharing my learning journey and tutorials
 
 ---
@@ -53,6 +53,6 @@
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/paul-christephor-kruger-0b65222b4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/paul-christephor-kruger-0b65222b4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=flat&logo=github&logoColor=white)](https://pchris04.github.io/paulkruger.github.io/)
 
