@@ -32,8 +32,8 @@
 
 ## 🚀 Projects
 
-- 🌐 **[Personal Portfolio]** – Showcasing my skills and work
-- 📘 **[Cybersecurity Blog]** – Sharing my learning journey and tutorials
+- 🌐 **Personal Portfolio** – Showcasing my skills and work
+- 📘 **Cybersecurity Blog** – Sharing my learning journey and tutorials
 
 ---
 
