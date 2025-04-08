@@ -45,8 +45,6 @@
 
 ---
 
-## 📌 Fun Fact
-
 > _"With God, all things are possible." – Matthew 19:26_
 
 ---
