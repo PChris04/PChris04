@@ -3,11 +3,10 @@
 
 # 👋 Hi, I'm Paul Kruger
 
-🌱 A passionate student in Tech
-🎓 Studying at Sol Plaatje university  
-🔐 Aspiring to become an Ethical Hacker  
-💡 Currently working on: Learning as much as possible about cybersecurity and completing my diploma  
-
+🌱 A passionate professional in Tech
+🎓 Studied at Sol Plaatje university  
+🔐 Securty Analyst
+💡 Currently working on: Improving my ethical hacking skillset focussed on web applications
 ---
 
 ## 🧰 Tech Stack
@@ -17,7 +16,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
@@ -34,14 +32,13 @@
 ## 🚀 Projects
 
 - 🌐 **Personal Portfolio** – Showcasing my skills and work
-- 📘 **Cybersecurity Blog** – Sharing my learning journey and tutorials
 
 ---
 
 ## ✨ Achievements
 
 - 🥈 2nd Place – L'Oréal Brandstorm National Qualifiers 2024  
-- 👨‍🏫 Serving as **Deputy Chairperson** – Geekulcha Student Society @ Sol Plaatje University  
+- 👨‍🏫 Served as **Deputy Chairperson** – Geekulcha Student Society @ Sol Plaatje University  
 - 📚 Tutor – Helping others level up in tech and theory
 
 ---
